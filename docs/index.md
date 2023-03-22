@@ -27,7 +27,7 @@ We hope you enjoy these snapshots of your time studying Psychology at Glasgow.
 ---
 
 <div align = "center">
-<img height = "80%" width = "80%" src="images/Sarah_snow.jpeg"> 
+<img height = "80%" width = "80%" src="images/Uni-view.png"> 
 <br>
-<span style = "float: right;">**A Snowy Campus with Bright Skies - A Year Since My Last Lecture On Campus by Sarah Smith**</span>
+<span style = "float: right;">**Was always a lovely view by Lucia Feketova**</span>
 </div>
