@@ -1,9 +1,7 @@
 ## Our Projects! {-}
 
-<div align = "center">
-<span style = "float: right;">**Alicja Turek**<br>Download <a href="images/Alicia_Turek.pdf" target = "_blank">a pdf of this study from here</a></span>
-<br>
-<img height = "80%" width = "80%" src="images/Alicia_Turek.PNG"> 
+<div>
+<span style = "float: right;">**Abigail Graham**<br></span><a href = "https://sway.office.com/wieQriZFOf2Mggzy?ref=Link" target = "_blank">Investigating Passive and Active Social Media Use as a Predictor for Student Loneliness</a>
 </div>
 
 
@@ -12,11 +10,8 @@
 </div>
 
 ---
-
-<div align = "center">
-<span style = "float: right;">**Afrah Fathima**<br>Download <a href="images/Afrah_Fathima.pdf" target = "_blank">a pdf of this study from here</a></span>
-<br>
-<img height = "80%" width = "80%" src="images/Alicia_Turek.PNG"> 
+<div>
+<span style = "float: right;">**Afrah_Fathima**<br></span><a href = "https://sway.office.com/c7iAyr2mmymrhiJa?ref=Link" target = "_blank">Online Self-Perception and other factors Affecting Instagram Users’ Mental Health.</a>
 </div>
 
 
@@ -25,11 +20,8 @@
 </div>
 
 ---
-
-<div align = "center">
-<span style = "float: right;">**Abigail Graham**<br>Download <a href="images/Abigail_Graham.pdf" target = "_blank">a pdf of this study from here</a></span>
-<br>
-<img height = "80%" width = "80%" src="images/Alicia_Turek.PNG"> 
+<div>
+<span style = "float: right;">**Alicja Turek**<br></span><a href = "https://sway.office.com/IblaX5UXYsAjxOSP?ref=Link" target = "_blank">Mixed Method Approach Investigating the Effect of a Virtual Reality Setting on the ASMR Experience.</a>
 </div>
 
 
@@ -65,7 +57,7 @@
 
 
 <div>
-<span style = "float: right;">**Heather**<br></span><a href = "https://sway.office.com/bwxCyoUAOeh04Vil?ref=Link&loc=play" target = "_blank">Online Self-Perception and other factors Affecting Instagram Users’ Mental Health.</a>
+<span style = "float: right;">**Alison Lloyd**<br></span><a href = "https://sway.office.com/rOlOFY5S7TtAjb21?ref=Link" target = "_blank">A qualitative exploartion into the experience of people living with epilepsy and mental illness.</a>
 </div>
 
 <div>
