@@ -27,7 +27,7 @@ We hope you enjoy these snapshots of your time studying Psychology at Glasgow.
 ---
 
 <div align = "center">
-<img height = "80%" width = "80%" src="images/Uni-view.png"> 
+<img height = "80%" width = "80%" src="images/Uni_view.png"> 
 <br>
 <span style = "float: right;">**Was always a lovely view by Lucia Feketova**</span>
 </div>

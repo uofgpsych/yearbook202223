@@ -1,9 +1,9 @@
 ## Our Projects! {-}
 
 <div align = "center">
-<span style = "float: right;">**Olivia Lesley**<br>Download <a href="images/Olivia_Lesley.pdf" target = "_blank">a pdf of this study from here</a></span>
+<span style = "float: right;">**Alicja Turek**<br>Download <a href="images/Alicia_Turek.pdf" target = "_blank">a pdf of this study from here</a></span>
 <br>
-<img height = "80%" width = "80%" src="images/Olivia_Lesley.PNG"> 
+<img height = "80%" width = "80%" src="images/Alicia_Turek.PNG"> 
 </div>
 
 
@@ -13,10 +13,10 @@
 
 ---
 
-<div>
-<span style = "float: right;">**Sarah Smith**</span>
+<div align = "center">
+<span style = "float: right;">**Afrah Fathima**<br>Download <a href="images/Afrah_Fathima.pdf" target = "_blank">a pdf of this study from here</a></span>
 <br>
-<img src="images/Sarah_Smith.jpg"> 
+<img height = "80%" width = "80%" src="images/Alicia_Turek.PNG"> 
 </div>
 
 
@@ -26,24 +26,23 @@
 
 ---
 
-<div>
-<span style = "float: right;">**Francesca Critchley**</span>
+<div align = "center">
+<span style = "float: right;">**Abigail Graham**<br>Download <a href="images/Abigail_Graham.pdf" target = "_blank">a pdf of this study from here</a></span>
 <br>
-<img src="images/Francesca_Critchley.PNG"> 
+<img height = "80%" width = "80%" src="images/Alicia_Turek.PNG"> 
 </div>
 
 
 <div>
 <br>
 </div>
+
 
 
 ---
 
 <div>
-<span style = "float: right;">**Bethany Shelton**<br></span>
-<br>
-<img src="images/Bethany_Shelton.PNG"> 
+<span style = "float: right;">**Ashley Smellie**<br></span><a href = "https://sway.office.com/bwxCyoUAOeh04Vil?ref=Link&loc=play" target = "_blank">What Determines Individual Differences in Climate Change Belief?</a>
 </div>
 
 
