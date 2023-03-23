@@ -1,21 +1,12 @@
-# Some words from your SRC Rep {-}
+# Our Projects! {-}
+
+## Our Communication Pieces {-}
 
 
-#### From Leonie Schorrlepp {-}
+<div>
+<span style = "float: right;">**Abigail Graham**<br></span><a href = "https://sway.office.com/wieQriZFOf2Mggzy?ref=Link" target = "_blank">Investigating Passive and Active Social Media Use as a Predictor for Student Loneliness</a>
+</div>
 
-```{block, type = "info3"}
-
-**Dear Class of 2021, **
-
-Hi everyone! Heather very kindly asked me to say a few words and I have to say this is quite a scary task because there are far too many graduation platitudes to fall into. We have all had such diverse experiences that it is impossible to find a way to cover all the struggles, the challenges, the successes, failures, losses and joys each person in this class has experienced.  
-
-So, I brainstormed to figure out which moments were most important to me in this journey to today in the hope that maybe some of you find yourself in it. I have come to the conclusion that apart from labs, lectures, group work, clubs, societies, nights out and in, library sessions or at home studying and procrastinating, what I have always loved so much to share with many of you was the paths in-between and I want to dedicate a moment to them today. Yes, we have learned and grown so much and I’m sure you don’t need me to tell you about that today, seeing how you have proof of it in the form of your graduation. So let me explain what I mean by the paths in between. Flashback to first year: While I found those first semester lectures absolutely terrifying to walk into with that big hall where it was hard to figure out where those soon to be friends were sat so you had to walk along the front and feel like everyone was watching with every sound amplified in the cold dome of Bute hall, it was the way out that I first felt like I belonged here with those people around me. I genuinely don’t remember what was said in any of those moments but there was no pressure on them and it was a great moment to float around and have short chats, then leave and maybe come back for more some other time, that was a time for smiles and maybe a hello. Those first uncertain conversation soon became a regular occurrence throughout our time here. Walking down the Boyd Orr stairs, realising you have the same way home or to the library with someone you hadn’t really talked to before. Small talk while waiting for the class before to leave the lecture hall. Those are precious and defining moments for me to feel at home with the people and the course around. Whilst COVID took away many of those informal moments, I quickly realised that a face I only knew in passing was suddenly there for long conversations when running into each other on some street. And I genuinely loved meeting people in breakout rooms so much. Partly because of being deprived of social interaction, partly because those moments were like standing outside a lecture hall just longer and better because I didn’t just meet the people who kind of sat around me during the lecture. And I have to say, random people in breakout rooms are really cool and full of surprises and shared experiences. So, why these moments? They are so important to me because of the kindness that was exchanged in the smallest of gestures, the unreserved interest that was shown for the people around, and the openness to be present with each other. Yes, obviously we’re also masters of R, pretty impressive critical thinkers, and surely some of the smartest psychology graduates in the country – I’m only half joking, I keep being impressed by everyone around me. But this class is also very kind and takes time for each other and supports and laughs and grows together for our benefit and for those who come after us.  
-
-To wrap this up, I’d like to say thank you to everyone who was a part of this journey, both the staff at the School of Psychology and all those students in this course, this was a safe and exciting place to learn with challenges and of course struggles but also with incredible support and care. There are many steps on this journey that I don’t know about so celebrate those, I congratulate you on them and I conclude in saying well done, you’re the best. 
-
-**Leonie**
-
-```
 
 <div>
 <br>
@@ -23,3 +14,640 @@ To wrap this up, I’d like to say thank you to everyone who was a part of this 
 
 ---
 
+<div>
+<span style = "float: right;">**Afrah_Fathima**<br></span><a href = "https://sway.office.com/c7iAyr2mmymrhiJa?ref=Link" target = "_blank">Online Self-Perception and other factors Affecting Instagram Users’ Mental Health.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Alicja Turek**<br></span><a href = "https://sway.office.com/IblaX5UXYsAjxOSP?ref=Link" target = "_blank">Mixed Method Approach Investigating the Effect of a Virtual Reality Setting on the ASMR Experience.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+
+
+---
+
+<div>
+<span style = "float: right;">**Ashley Smellie**<br></span><a href = "https://sway.office.com/bwxCyoUAOeh04Vil?ref=Link&loc=play" target = "_blank">What Determines Individual Differences in Climate Change Belief?</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Alison Lloyd**<br></span><a href = "https://sway.office.com/rOlOFY5S7TtAjb21?ref=Link" target = "_blank">A qualitative exploartion into the experience of people living with epilepsy and mental illness.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+
+---
+
+<div>
+<span style = "float: right;">**Amalia Ikonomidis**<br></span><a href = "https://sway.office.com/WUygjnZheD5Zojt5?ref=Link" target = "_blank">How Living the Dream Might Be a Nightmare: The Role of Poor 
+Quality of Sleep in Lucid Dreaming and Nightmare Frequency.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Annie Reid**<br></span><a href = "https://sway.office.com/YBwXoPPfEAFMplm9?ref=Link" target = "_blank">Chronic Illness and Psychological Distress: The Role of Social Deprivation.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Aoife McCourt**<br></span><a href = "https://sway.office.com/scHY0YY0JaOaIVzR?ref=Link"target = "_blank">Breaking Barriers: Exploring the Attitudes and
+Perceptions Towards Integration Between Protestant and Catholic Communities in Post-Conflict Northern Ireland.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Caitlin McDonald**<br></span><a href = "https://sway.office.com/I3ZUOlMwTHARkQVJ?ref=Link"target = "_blank">Exploring perspectives of first year undergraduate students on the use of social media as a tool to support anxiety and worry</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+
+<div>
+<span style = "float: right;">**Cameron Oyston**<br></span><a href = "https://sway.office.com/hcEVxQ7g0GYwSRXP?ref=Link"target = "_blank">On the Reaffirmation of the Relationship Between the ODI and the DASS</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Charlotte Schneider**<br></span><a href = "https://sway.office.com/fJ0vGXXEGRtH7eby?ref=Link"target = "_blank">Interactive Effects of Job Advertisement Wording, Applicants’ Gender and Work Experience on Perceived Candidate Suitability in an Experimental Vignette Study</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Ciara Wilson**<br></span><a href = "https://sway.office.com/fJ0vGXXEGRtH7eby?ref=Link"target = "_blank">A comparison of factors influencing conviction outcomes between Scotland and England's jury systems.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Claire Crease**<br></span><a href = "https://sway.office.com/6gn7MIdY6PoIUHmS?ref=Link"target = "_blank">An Investigation of the Impact of Parental Academic Success on the Experience of Impostor Phenomenon.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Daniel Moore**<br></span><a href = "https://sway.office.com/2Lpga6zmZ7ctd9tB?ref=Link&loc=play"target = "_blank">Are you ready for work?</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+
+<div>
+<span style = "float: right;">**Gabbie Franjeskou**<br></span><a href = "https://sway.office.com/GZSUnkI9dHyPwiga?ref=Link"target = "_blank">Investigating bilingual's perception of climate change messages.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Gillian Seawright**<br></span><a href = "https://sway.office.com/Xr1lECH0iEnRfi7W?ref=Link"target = "_blank">The impact of parenting styles on students' mental health and self-esteem.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Hamish Barrett**<br></span><a href = "https://sway.office.com/Xr1lECH0iEnRfi7W?ref=Link"target = "_blank">How absolute poverty and perception of one's own poverty predict students' wellbeing and sense of belonging</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Hannah Luke**<br></span><a href = "https://sway.office.com/Xr1lECH0iEnRfi7W?ref=Link"target = "_blank">Hydration motivation and the role of amateur sport.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Holli Ella**<br></span><a href = "https://sway.office.com/LKoPdxDtCV7QCBPW?ref=Link&loc=play"target = "_blank">The Effect of Instagram's "Fitspiration" Culture on Body Image Among Men.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Jai Potter**<br></span><a href = "https://sway.office.com/KtGpcDTRiC4S29Cd?ref=Link"target = "_blank">The experience of Imposter Syndrome in First-Generation University Honours students and the impact of the COVID-19 pandemic.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Jemma Gough**<br></span><a href = "https://sway.office.com/Rt49GU6mvLiPRPoF?ref=Link"target = "_blank">Investigating Whether Dimensions of Religiosity and Perfectionism are  Predictive of Mental Wellbeing in a UK Christian Sample.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Jenna Jones**<br></span><a href = "https://sway.office.com/Rt49GU6mvLiPRPoF?ref=Link"target = "_blank">An Investigation in the Potential Association between Perceived Parental Support, Mental Health, and Academic Success in Undergraduates</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Jordyn Marais**<br></span><a href = "https://sway.office.com/tu2xlV4FlXtva2CD?ref=Link"target = "_blank">Conceptualisations and Practices of Good Mental
+Health in South Africa.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Julia Love**<br></span><a href = "https://sway.office.com/XdkBWQg0jtnD8U8F?ref=Link"target = "_blank">Mindfulness Apps For Student Wellbeing.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Julie Garroway**<br></span><a href = "https://sway.office.com/OnaFfYPB1hdVUBKA?ref=Link"target = "_blank">Agreeableness and Religiosity as Predictors of Disgust Sensitivity.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Juliet Cameron**<br></span><a href = "https://sway.office.com/mUJzQiwaN1dqdyE6?ref=Link"target = "_blank">The Sad Playlist: Investigating the Motivations and Benefits of Listening to Sad Music.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Kelly McGuckien**<br></span><a href = "https://sway.office.com/DAgp1FkZCGeUENbr?ref=Link"target = "_blank">An Investigation of the Relationship between Pathogen Disgust Sensitivity and Stigma Towards Mental Illness</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Kiera Halliday**<br></span><a href = "https://sway.office.com/fJflAwotIGNleX2P?ref=Link"target = "_blank">Do levels of autistic traits predict test anxiety?</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Kirsty Donnachie**<br></span><a href = "https://sway.office.com/jFymrcgPkzfL1Olp?ref=Link&loc=play"target = "_blank">Investigating the Relationship Between Emotion Regulation and Perfectionism in University Students</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Lauren McKee**<br></span><a href = "https://sway.office.com/WLZmEZukjiUwoy9j?ref=Link"target = "_blank">Investigating if Individual Differences in Pathogen Disgust Predict the Stigma of Eating Disorders</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Liv Thomson**<br></span><a href = "https://sway.office.com/gvcP7mcrLIAgzW5K?ref=Link"target = "_blank">Killing Villanelle: A Qualitative Investigation of LGBTQ+ Representation in Media and it's Effects</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Lucia Feketova**<br></span><a href = "https://sway.office.com/gvcP7mcrLIAgzW5K?ref=Link"target = "_blank">Experiences of Non-Binary Italians with Gender Identity</a>
+</div>
+
+
+<div>
+<br>
+
+---
+
+<div>
+<span style = "float: right;">**Madeleine O'Sullivan**<br></span><a href = "https://sway.office.com/zmjIWXiLLKCPr9TJ?ref=Link"target = "_blank">Is my body trending? The Effects of TikTok on Body Dissatisfaction, Disordered Eating Attitudes and Muscle Building Behaviours</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Mai Miller**<br></span><a href = "https://sway.office.com/Lr5kc2LGz9vh2kgJ?ref=Link"target = "_blank">An Investigation into the Role of Performance
+Feedback in a Human-AI Collaborative Environment</a>
+</div>
+
+
+<div>
+<br>
+
+---
+
+<div>
+<span style = "float: right;">**Maiju Bagman**<br></span><a href = "https://sway.office.com/PM4xNgJiZGsubg7R?ref=Link"target = "_blank">The influence of experiencing disgust on language processing</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Mandy Wan**<br></span><a href = "https://l4diss.notion.site/It-s-More-than-Just-a-Game-74e9c5aabe4f4656adae73162c29e15c"target = "_blank">“It’s More than Just a Game”: How a Sense of Belonging can be Fostered and Maintained in Video Games</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Mark Gallacher**<br></span><a href = "https://sway.office.com/JZQ2TrzI4oAbAzQu?ref=Link"target = "_blank">Consistent Tests Within Science</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Marta Ruf**<br></span><a href = "https://sway.office.com/3wWtQIEM0D4fOP6u?ref=Link"target = "_blank">Monosexism</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Meg Pitts**<br></span><a href = "https://sway.office.com/gxrY2VQh6xIt45o6?ref=Link"target = "_blank">The Role of Online Forum Support in Understanding and Accepting Chronic Pain Status</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Mia Dunnington**<br></span><a href = "https://sway.office.com/WThavNZjtxBZiKX7?ref=Link"target = "_blank">A Quantitative Investigation into the Gender Differences of Mental Health Stigma Between Peers in a University Environment.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Nathalie Ridgillova**<br></span><a href = "https://sway.office.com/1sppnKIrlYTdR1Xc?ref=Link"target = "_blank">Combining words into images</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Nerea Rodero**<br></span><a href = "https://sway.office.com/8bLLDzxJXZv02VWs?ref=Link"target = "_blank">Personality and Bilingualism</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Niall Bogan**<br></span><a href = "https://sway.office.com/nLPSvuTh4Z4AqOcH?ref=Link&loc=mysways"target = "_blank">An Exploration of Communication Platforms and Their Role In Transitions Into Higher Education</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Olivia Christoph**<br></span><a href = "https://sway.office.com/wp9nA9UkHltS1Qrd?ref=Link"target = "_blank">A Thematic Analysis of how the experience of menopause effects women's wellbeing</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Qintong Li**<br></span><a href = "https://sway.office.com/JUhHkAGJBMyb9GCU?ref=Link"target = "_blank">Examining Listeners' Use of Perspective in Online Comprehension of Modified Noun Phrases</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Rachel Hart**<br></span><a href = "https://sway.office.com/K8bHZzSXOl5C6oJI?ref=Link&loc=play"target = "_blank">Mind the Head: Football Warning Labels and Children's Football Heading</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Riya Gurnani**<br></span><a href = "https://sway.office.com/3O0i2h5F9ZcVYSpZ?ref=Link"target = "_blank">Insights from Healthcare Staff: Exploring Perceptions and Experiences of Working with Traumatic Brain Injury Patients with Sleep Disturbances in Inpatient Rehabilitation</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Saniya Jamil**<br></span><a href = "https://sway.office.com/fBNOtkJfKNBpjXIl?ref=Link&loc=play"target = "_blank">MCQs as a Statistics Anxiety Intervention</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Sarah O'Connor**<br></span><a href = "https://sway.office.com/f8lRDHG7Syjbln6i?ref=Link"target = "_blank">Screen Time, Physical Activity, and Mental Health: A Cross-Sectional Study</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Solene Guenot**<br></span><a href = "https://sway.office.com/ETUilxOrY6CWKRDS?ref=Link"target = "_blank">Evaluating the Interaction Between Mental Imagery Vividness and Recognition Ability of Faces and Objects: New Insights on Item Visual Processing Theories</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Sophie Harju**<br></span><a href = "https://sway.office.com/RuqhDl9OgAe31O1h?ref=Link"target = "_blank">Can primed free will beliefs have an effect on our moral responsibility appraisals of hypothetical agents?</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Sophie Lawrie-Shearer**<br></span><a href = "https://sway.office.com/5OMql0TBb3LCMa1v?ref=Link"target = "_blank">Trypophobia: An investigation of psychological predictors</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Sophie Rew**<br></span><a href = "https://sway.office.com/EHsOzEH8gcGUNWAv?ref=Link"target = "_blank">Investigating the Effectiveness of SMART Goal Setting in Lowering Academic Procrastination and Improving Independent Study</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Wioleta Wabik**<br></span><a href = "https://sway.office.com/9r0DWNypWRjQBgfo?ref=Link"target = "_blank">Religiosity, Sexual Shame and Self-esteem</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+## Our Vlogs {-}
+
+
+<div>
+<span style = "float: right;">**Emma Morris**<br></span><a href = "https://youtu.be/fXWxuCTtn6o"target = "_blank">An investigation of the relationship between overgeneralised disease avoidance and attitudes towards mental illness.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+
+<div>
+<span style = "float: right;">**Grace Ford**<br></span><a href = "https://gla-my.sharepoint.com/:v:/r/personal/2477391f_student_gla_ac_uk/Documents/Grace%20Ford%20Dissertation%20Presentation.mp4?csf=1&web=1&e=9EPFbU"target = "_blank">Effects of Type 1 Diabetes and Age of Diagnosis on Adult Mental Health</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Kika Ukropcova**<br></span><a href = "https://youtu.be/9QnOOMH3v7Y"target = "_blank">Raising primary school children on low-meat or no-meat diets: Strategies, barriers, and facilitators amongst UK parents</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Matt Ogden**<br></span><a href = "https://youtu.be/kipEOmqQDZ0"target = "_blank">Mental Health of Students Impacted by the Cost of Living Crisis in 2022.</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Zsolt Takacs**<br></span><a href = "https://youtu.be/TqS-xT4h_Ps"target = "_blank">Using Machine Learning to Support Qualitative Data Analysis</a>
+</div>
+
+
+<div>
+<br>
+</div>
+
+---
