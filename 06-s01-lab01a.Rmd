@@ -21,7 +21,7 @@ We are hoping we will get some photos at graduation we can share here! You will 
 <div>
 <span style = "float: left;">**Class of 2022 graduation**</span>
 <br>
-<img src="images/class_of_2022.jpeg"> 
+<img src="images/class_of_2022.jpeg" style="width: 400px;"> 
 </div>
 
 
