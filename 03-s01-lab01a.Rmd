@@ -1,4 +1,4 @@
-# Our Projects! {-}
+# Our Projects {-}
 
 ## Our Communication Pieces {-}
 
@@ -194,6 +194,10 @@ Perceptions Towards Integration Between Protestant and Catholic Communities in P
 <div>
 <br>
 </div>
+
+---
+
+<img src="images/Cloisters.png" style="width: 200px;">
 
 ---
 
@@ -395,6 +399,10 @@ Feedback in a Human-AI Collaborative Environment</a>
 
 ---
 
+<img src="images/quad.jpeg" style="width: 200px;">
+
+---
+
 <div>
 <span style = "float: right;">**Mark Gallacher**<br></span><a href = "https://sway.office.com/JZQ2TrzI4oAbAzQu?ref=Link"target = "_blank">Consistent Tests Within Science</a>
 </div>
@@ -593,6 +601,10 @@ Feedback in a Human-AI Collaborative Environment</a>
 
 ---
 
+<img src="images/in_the_distance.jpeg" style="width: 200px;">
+
+---
+
 ## Our Vlogs {-}
 
 
@@ -651,3 +663,5 @@ Feedback in a Human-AI Collaborative Environment</a>
 </div>
 
 ---
+
+
