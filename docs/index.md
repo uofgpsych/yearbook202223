@@ -14,7 +14,7 @@ biblio-style: apalike
 
 # Class of 2023 {-}
 
-<img src="images/SchoolBadge.png" style="width: 200px; float: right;">
+<img src="images/SchoolBadge.png" style="width: 400px; float: right;">
 
 ---
 
