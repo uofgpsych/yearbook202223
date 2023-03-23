@@ -10,6 +10,7 @@
 </div>
 
 ---
+
 <div>
 <span style = "float: right;">**Afrah_Fathima**<br></span><a href = "https://sway.office.com/c7iAyr2mmymrhiJa?ref=Link" target = "_blank">Online Self-Perception and other factors Affecting Instagram Users’ Mental Health.</a>
 </div>
@@ -20,6 +21,7 @@
 </div>
 
 ---
+
 <div>
 <span style = "float: right;">**Alicja Turek**<br></span><a href = "https://sway.office.com/IblaX5UXYsAjxOSP?ref=Link" target = "_blank">Mixed Method Approach Investigating the Effect of a Virtual Reality Setting on the ASMR Experience.</a>
 </div>
@@ -45,6 +47,27 @@
 ---
 
 <div>
+<span style = "float: right;">**Alison Lloyd**<br></span><a href = "https://sway.office.com/rOlOFY5S7TtAjb21?ref=Link" target = "_blank">A qualitative exploartion into the experience of people living with epilepsy and mental illness.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+---
+
+<div>
+<span style = "float: right;">**Amalia Ikonomidis**<br></span><a href = "https://sway.office.com/rOlOFY5S7TtAjb21?ref=Link" target = "_blank">How Living the Dream Might Be a Nightmare: The Role of Poor 
+Quality of Sleep in Lucid Dreaming and Nightmare Frequency.</a>
+</div>
+
+<div>
+<br>
+</div>
+
+
+---
+<div>
 <span style = "float: right;">**Matt Ogden**<br></span><a href = "https://youtu.be/kipEOmqQDZ0" target = "_blank">Mental Health of Students Impacted by the Cost of Living Crisis in 2022.</a>
 </div>
 
@@ -55,9 +78,9 @@
 
 ---
 
-
 <div>
-<span style = "float: right;">**Alison Lloyd**<br></span><a href = "https://sway.office.com/rOlOFY5S7TtAjb21?ref=Link" target = "_blank">A qualitative exploartion into the experience of people living with epilepsy and mental illness.</a>
+<span style = "float: right;">**Amalia Ikonomidis**<br></span><a href = "https://sway.office.com/WUygjnZheD5Zojt5?ref=Link" target = "_blank">How Living the Dream Might Be a Nightmare: The Role of Poor 
+Quality of Sleep in Lucid Dreaming and Nightmare Frequency.</a>
 </div>
 
 <div>
@@ -66,18 +89,13 @@
 
 ---
 
-
 <div>
-<span style = "float: right;">**Noor Sabha**<br></span>
-<br>
-<img src="images/Noor_Sabha.JPG">
+<span style = "float: right;">**Annie Reid**<br></span><a href = "https://sway.office.com/YBwXoPPfEAFMplm9?ref=Link" target = "_blank">Chronic Illness and Psychological Distress: The Role of Social Deprivation.</a>
 </div>
-
 
 <div>
 <br>
 </div>
+
 
 ---
-
-
