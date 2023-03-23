@@ -1,5 +1,9 @@
 # Our Projects {-}
 
+
+<img src="images/and_moody.png" style="width: 400px;">
+
+
 ## Our Communication Pieces {-}
 
 
@@ -197,7 +201,7 @@ Perceptions Towards Integration Between Protestant and Catholic Communities in P
 
 ---
 
-<img src="images/Cloisters.png" style="width: 200px;">
+<img src="images/Cloisters.png" style="width: 400px;">
 
 ---
 
@@ -399,7 +403,7 @@ Feedback in a Human-AI Collaborative Environment</a>
 
 ---
 
-<img src="images/quad.jpeg" style="width: 200px;">
+<img src="images/quad.jpeg" style="width: 400px;">
 
 ---
 
@@ -601,7 +605,7 @@ Feedback in a Human-AI Collaborative Environment</a>
 
 ---
 
-<img src="images/in_the_distance.jpeg" style="width: 200px;">
+<img src="images/in_the_distance.jpeg" style="width: 400px;">
 
 ---
 
@@ -664,4 +668,4 @@ Feedback in a Human-AI Collaborative Environment</a>
 
 ---
 
-
+<img src="images/and_breathe.jpeg" style="width: 400px;">
