@@ -1,7 +1,7 @@
 --- 
 title: "Class of 2023 Yearbook"
 author: "Dr Heather Cleland Woods"
-date: "2023-03-23"
+date: "2023-03-24"
 bibliography: packages.bib
 description: UofG Psychology and Neuroscience Class of 2023 Yearbook
 documentclass: book
